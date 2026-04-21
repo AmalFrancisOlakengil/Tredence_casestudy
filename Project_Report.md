@@ -26,7 +26,10 @@ The model was evaluated across various λ values to analyze the trade-off betwee
 | **0.00010** | **52.02%** | **81.32%** |
 | 0.00020 | 47.39% | 93.48% |
 
-**Key Finding:** At the optimal λ of 0.0001, the network removed **81.32%** of its parameters while maintaining a stable accuracy of **52.02%**, demonstrating high efficiency with minimal performance degradation.
+**Key Finding:** At the optimal λ of 0.0001, the network removed **81.32%** of its parameters while maintaining a stable accuracy of **52.02%**, demonstrating high efficiency with minimal performance degradation.  
+
+#Sparsity Plot 
+[!Gateway distribution](https://raw.githubusercontent.com/AmalFrancisOlakengil/Tredence_casestudy/refs/heads/main/gate_value_distribution.jpg)
 
 ## 5. Analysis of Gate Distribution
 The final state of the model shows a distinct bimodal distribution:
