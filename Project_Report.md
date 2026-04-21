@@ -28,7 +28,7 @@ The model was evaluated across various λ values to analyze the trade-off betwee
 
 **Key Finding:** At the optimal λ of 0.0001, the network removed **81.32%** of its parameters while maintaining a stable accuracy of **52.02%**, demonstrating high efficiency with minimal performance degradation.  
 
-# Sparsity Plot 
+### Sparsity Plot 
 ![Gateway distribution](https://raw.githubusercontent.com/AmalFrancisOlakengil/Tredence_casestudy/refs/heads/main/gate_value_distribution.jpg)
 
 ## 5. Analysis of Gate Distribution
